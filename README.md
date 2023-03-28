@@ -1,6 +1,6 @@
 # FrontendWeb-Responsive
 
-#NEXOS
+#NEXOS :
 Este es un sitio web creado utilizando HTML y CSS, con un modal que se activa con JavaScript. El diseño es responsive y se adapta a pantalla de computadoras y de celulares.
 
 #Características
